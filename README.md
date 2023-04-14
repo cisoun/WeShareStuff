@@ -22,3 +22,8 @@ Symbols
  - [Cappuccin](https://github.com/catppuccin/catppuccin) :heart: :star:
  - [Gruvbox](https://github.com/morhetz/gruvbox)
  - [Rainglow](https://rainglow.io) :heart: :star:
+
+## Tools
+
+ - Database clients
+   - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) (free/paid)
