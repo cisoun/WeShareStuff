@@ -21,7 +21,7 @@ Symbols
 
 ## Themes / styles
 
- - [Cappuccin](https://github.com/catppuccin/catppuccin) :heart: :star:
+ - [Catppuccin](https://github.com/catppuccin/catppuccin) :heart: :star:
  - [Gruvbox](https://github.com/morhetz/gruvbox)
  - [Rainglow](https://rainglow.io) :heart: :star:
 
