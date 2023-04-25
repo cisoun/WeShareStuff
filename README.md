@@ -13,9 +13,11 @@ Symbols
    - [Overpass](http://overpassfont.org) (free)
  - Monospace
    - [Victor Mono](https://rubjo.github.io/victor-mono) (free)
+   - [Courier Prime](https://fonts.google.com/specimen/Courier+Prime) (free) :heart:
+   - [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace) (paid) :heart:
  - Sans-serif
    - [DINosaur](https://fonts.adobe.com/fonts/dinosaur) (paid)
-   
+
 
 ## Themes / styles
 
