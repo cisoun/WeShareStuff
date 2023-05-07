@@ -17,6 +17,8 @@ Symbols
    - [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace) (paid) :heart:
  - Sans-serif
    - [DINosaur](https://fonts.adobe.com/fonts/dinosaur) (paid)
+ - Display
+   - [Ayer](https://commercialtype.com/catalog/ayer) (paid)
 
 
 ## Themes / styles
