@@ -26,6 +26,7 @@ Symbols
  - [Catppuccin](https://github.com/catppuccin/catppuccin) :heart: :star:
  - [Gruvbox](https://github.com/morhetz/gruvbox)
  - [Rainglow](https://rainglow.io) :heart: :star:
+ - [Rosé Pine](https://rosepinetheme.com) :star:
 
 ## Tools
 
