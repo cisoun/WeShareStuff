@@ -12,9 +12,10 @@ Symbols
  - All styles
    - [Overpass](http://overpassfont.org) (free)
  - Monospace
-   - [Victor Mono](https://rubjo.github.io/victor-mono) (free)
-   - [Courier Prime](https://fonts.google.com/specimen/Courier+Prime) (free) :heart:
    - [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace) (paid) :heart:
+   - [Courier Prime](https://fonts.google.com/specimen/Courier+Prime) (free) :heart:
+   - [iA Writer Quattro S](https://www.cufonfonts.com/font/ia-writer-quattro-s) (free)
+   - [Victor Mono](https://rubjo.github.io/victor-mono) (free)
  - Sans-serif
    - [DINosaur](https://fonts.adobe.com/fonts/dinosaur) (paid)
  - Display
