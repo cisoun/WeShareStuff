@@ -33,3 +33,5 @@ Symbols
 
  - Database clients
    - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) (free/paid)
+ - Mac OS
+   - [Rectangle](https://rectangleapp.com) (free) : Windows tiling by drag'n'drop like Windows/GNOME/KDE.
