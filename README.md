@@ -11,7 +11,7 @@ Symbols
 
  - All styles
    - [Overpass](http://overpassfont.org) (free)
-   - [Typographer Mediengestaltung](https://www.1001fonts.com/users/steffmann) (free) :heart: : Big collection of old - mainly gothic - fonts.
+   - [Typographer Mediengestaltung](https://www.1001fonts.com/users/steffmann) (free) :heart: :star: : Big collection of old - mainly gothic - fonts.
  - Monospace
    - [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace) (paid) :heart:
    - [Courier Prime](https://fonts.google.com/specimen/Courier+Prime) (free) :heart:
