@@ -22,6 +22,10 @@ Symbols
  - Display
    - [Ayer](https://commercialtype.com/catalog/ayer) (paid)
 
+## Icons
+
+ - [iconoir](https://iconoir.com) (free)
+ - [SVGmix](https://svgmix.com) (free): Large collections of SVG icons.
 
 ## Themes / styles
 
