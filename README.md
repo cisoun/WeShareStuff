@@ -19,6 +19,9 @@ Symbols
    - [Victor Mono](https://rubjo.github.io/victor-mono) (free)
  - Sans-serif
    - [DINosaur](https://fonts.adobe.com/fonts/dinosaur) (paid)
+   - [Finlandica](https://toolbox.finland.fi/brand-identity-and-guidelines/finlandica-font/) (free): Official finnish font.
+   - [Public Sans](https://public-sans.digital.gov/) (free): Official US font.
+   - [Sweden Sans](https://identity.sweden.se/en/download/brand-assets) (free): Official swedish font.
  - Display
    - [Ayer](https://commercialtype.com/catalog/ayer) (paid)
 
