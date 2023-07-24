@@ -27,8 +27,9 @@ Symbols
 
 ## Icons
 
+ - [Iconbuddy](https://iconbuddy.app) (free) :star: : Large collections of customizable SVG icons.
  - [iconoir](https://iconoir.com) (free)
- - [SVGmix](https://svgmix.com) (free): Large collections of SVG icons.
+ - [SVGmix](https://svgmix.com) (free) :star: : Large collections of SVG icons.
 
 ## Themes / styles
 
