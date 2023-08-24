@@ -16,6 +16,7 @@ Symbols
    - [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace) (paid) :heart:
    - [Courier Prime](https://fonts.google.com/specimen/Courier+Prime) (free) :heart:
    - [iA Writer Quattro S](https://www.cufonfonts.com/font/ia-writer-quattro-s) (free)
+   - [Intel One Mono](https://github.com/intel/intel-one-mono) (free): Intel's code font.
    - [Victor Mono](https://rubjo.github.io/victor-mono) (free)
  - Sans-serif
    - [DINosaur](https://fonts.adobe.com/fonts/dinosaur) (paid)
