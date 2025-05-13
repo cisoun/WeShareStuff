@@ -30,6 +30,7 @@ Symbols
 
 ## Icons
 
+ - [Iconify](https://icon-sets.iconify.design) : Large curation of icon sets.
  - [Iconbuddy](https://iconbuddy.app) (free) :star: : Large collections of customizable SVG icons.
  - [iconoir](https://iconoir.com) (free)
  - [SVGmix](https://svgmix.com) (free) :star: : Large collections of SVG icons.
@@ -47,3 +48,7 @@ Symbols
    - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) (free/paid)
  - Mac OS
    - [Rectangle](https://rectangleapp.com) (free) : Windows tiling by drag'n'drop like Windows/GNOME/KDE.
+
+## Others
+
+ - [Discmaster](https://discmaster.textfiles.com) : Browser for vintage computer files from archive.org.
