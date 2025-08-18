@@ -33,6 +33,7 @@ Symbols
  - [Iconify](https://icon-sets.iconify.design) : Large curation of icon sets.
  - [Iconbuddy](https://iconbuddy.app) (free) :star: : Large collections of customizable SVG icons.
  - [iconoir](https://iconoir.com) (free)
+ - [Lucide](https://lucide.dev) (free)
  - [SVGmix](https://svgmix.com) (free) :star: : Large collections of SVG icons.
 
 ## Themes / styles
