@@ -25,6 +25,7 @@ Symbols
    - [Inter](https://github.com/rsms/inter) (free)
    - [Public Sans](https://public-sans.digital.gov/) (free): Official US font.
    - [Sweden Sans](https://identity.sweden.se/en/download/brand-assets) (free): Official swedish font.
+   - [Switzer](https://www.fontshare.com/?q=switzer) (free): Swiss style font.
  - Display
    - [Ayer](https://commercialtype.com/catalog/ayer) (paid)
 
