@@ -24,6 +24,7 @@ Symbols
    - [Finlandica](https://toolbox.finland.fi/brand-identity-and-guidelines/finlandica-font/) (free): Official finnish font.
    - [Inter](https://github.com/rsms/inter) (free)
    - [Public Sans](https://public-sans.digital.gov/) (free): Official US font.
+   - [Satoshi](https://www.fontshare.com/fonts/satoshi) (free)
    - [Sweden Sans](https://identity.sweden.se/en/download/brand-assets) (free): Official swedish font.
    - [Switzer](https://www.fontshare.com/?q=switzer) (free): Swiss style font.
  - Display
